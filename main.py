@@ -26,7 +26,7 @@ def animate_ant_movement(graph, best_path):
         plt.draw()
         canvas.draw()
         time.sleep(0.5)
-
+        #This is a test for github pull and push request
     plt.show()
 
 def start_application():
